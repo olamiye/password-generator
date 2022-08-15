@@ -59,5 +59,15 @@ p{
     border-radius: 6px;
     margin-left: 52px;
     height: 39px;
+    width:300px;
 
+
+}
+
+.password{
+    display:flex;
+    /* justify-content: space-around; */
+    /* position:absolute */
+    gap: 20px;
+    
 }
