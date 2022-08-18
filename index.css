@@ -60,14 +60,15 @@ p{
     margin-left: 52px;
     height: 39px;
     width:300px;
-
-
+    color:#55F991;
+    text-align: center; 
+    
+    
 }
-
+.passItem{ 
+    text-align: center;
+ } 
 .password{
     display:flex;
-    /* justify-content: space-around; */
-    /* position:absolute */
     gap: 20px;
-    
 }
